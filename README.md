@@ -81,7 +81,7 @@ Screenshots of the AWS deployment:
 <img width="791" height="391" alt="image" src="https://github.com/user-attachments/assets/fcd0d0d7-d94e-4ad0-beb2-4d4a34871940" />
 
 ##Video explaination 
-Video explaination of the project in available under https://github.com/maheshnfunde2000/echomate/edit/main/video_explanation
+Video explaination of the project in available under https://github.com/maheshnfunde2000/echomate/blob/main/capstone_project_jain_video_explaination.mp4
 ---
 
 ## 💻 How to Run Locally
