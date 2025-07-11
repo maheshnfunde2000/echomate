@@ -78,10 +78,10 @@ Screenshots of the AWS deployment:
 
 <img width="811" height="408" alt="image" src="https://github.com/user-attachments/assets/988f6d66-6657-4516-a3e2-14f27b1f733f" />
 <img width="786" height="393" alt="image" src="https://github.com/user-attachments/assets/061dc050-5b51-4d51-8e6a-98900d89a61e" />
-<img width="778" height="388" alt="image" src="https://github.com/user-attachments/assets/9ca740be-8c31-4da4-87a8-370cd4881dec" />
 <img width="791" height="391" alt="image" src="https://github.com/user-attachments/assets/fcd0d0d7-d94e-4ad0-beb2-4d4a34871940" />
 
-
+##Video explaination 
+Video explaination of the project in available under https://github.com/maheshnfunde2000/echomate/edit/main/video_explanation
 ---
 
 ## 💻 How to Run Locally
