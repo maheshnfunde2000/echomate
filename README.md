@@ -53,6 +53,36 @@ See full deployment architecture and data flow in the final project report.
 📘 Final Project Report with Screenshots & Architecture:  
 [View Report (PDF)](./docs/Final_project_report_github.pdf)
 
+
+## Implementation: 
+Screenshots of the deployment: 
+
+<img width="762" height="333" alt="image" src="https://github.com/user-attachments/assets/f02d84e6-e5e5-495d-bc51-cea6896b62e7" />
+
+<img width="771" height="340" alt="image" src="https://github.com/user-attachments/assets/ce6881c4-beb4-4cdf-9bb7-554b500ea9d1" />
+
+<img width="771" height="335" alt="image" src="https://github.com/user-attachments/assets/8b031520-3709-459b-83d2-9896bfa7d8a1" />
+<img width="800" height="355" alt="image" src="https://github.com/user-attachments/assets/056418ad-e746-49a0-ab1c-83ee39bd472a" />
+
+<img width="781" height="353" alt="image" src="https://github.com/user-attachments/assets/61f1865c-cd73-4c48-a04d-77670956cf44" />
+
+<img width="770" height="343" alt="image" src="https://github.com/user-attachments/assets/2da72664-dc18-46eb-a0db-e5d17702288a" />
+
+<img width="787" height="297" alt="image" src="https://github.com/user-attachments/assets/92ee3611-e5a3-4443-a1bb-fb684250bfc1" />
+
+<img width="801" height="347" alt="image" src="https://github.com/user-attachments/assets/a64a86bb-81dc-4431-85f1-92b5afdd69ef" />
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 💻 How to Run Locally
