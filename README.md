@@ -55,7 +55,7 @@ See full deployment architecture and data flow in the final project report.
 
 
 ## Implementation: 
-Screenshots of the deployment: 
+Screenshots of the AWS deployment: 
 
 <img width="762" height="333" alt="image" src="https://github.com/user-attachments/assets/f02d84e6-e5e5-495d-bc51-cea6896b62e7" />
 
@@ -74,13 +74,12 @@ Screenshots of the deployment:
 
 
 
+## screenshots of deployment UI
 
-
-
-
-
-
-
+<img width="811" height="408" alt="image" src="https://github.com/user-attachments/assets/988f6d66-6657-4516-a3e2-14f27b1f733f" />
+<img width="786" height="393" alt="image" src="https://github.com/user-attachments/assets/061dc050-5b51-4d51-8e6a-98900d89a61e" />
+<img width="778" height="388" alt="image" src="https://github.com/user-attachments/assets/9ca740be-8c31-4da4-87a8-370cd4881dec" />
+<img width="791" height="391" alt="image" src="https://github.com/user-attachments/assets/fcd0d0d7-d94e-4ad0-beb2-4d4a34871940" />
 
 
 ---
